@@ -8,3 +8,4 @@ Within each one are columns of X, Y, Z position for each balloon in m, e.g. [X Y
 
 one_balloon, two_balloons_empirical, two_balloons_springdamper, three_balloons and four_balloons are the simulink models of the system
 
+optimiseBO and optimiseB2 are the Bayesian optimisation files for the one and two balloon models, sim_balloon and sim_2balloon are the corresponding cost functions
