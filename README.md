@@ -6,3 +6,5 @@ Real world data naming convention: T_fanPower_balloonWeights
 
 Within each one are columns of X, Y, Z position for each balloon in m, e.g. [X Y Z X1 Y1 Z1] for two balloon system
 
+one_balloon, two_balloons_empirical, two_balloons_springdamper, three_balloons and four_balloons are the simulink models of the system
+
