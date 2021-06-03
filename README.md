@@ -10,4 +10,4 @@ one_balloon, two_balloons_empirical, two_balloons_springdamper, three_balloons a
 
 optimiseBO and optimiseB2 are the Bayesian optimisation files for the one and two balloon models, sim_balloon and sim_2balloon are the corresponding cost functions
 
-the parameter values for different models can be found in optimisationData
+the parameter values for different models can be found in 'optimisation solutions'
